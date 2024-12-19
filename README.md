@@ -1,8 +1,8 @@
 # 🌟 **Internship Experience and Learning Repository** 🌟  
 
-Recently, I completed a one-month online internship at a small-scale company (name withheld for privacy). At first, I was excited about the opportunity, as internships are a great way to learn and gain practical experience. However, as the internship progressed, I began to notice some red flags. The company assigned all interns the same three simple console-based projects. These projects required minimal effort, lacked creativity, and didn’t contribute to significant learning.
+  Recently, I completed a one-month online internship at a small-scale company (name withheld for privacy). At first, I was excited about the opportunity, as internships are a great way to learn and gain practical experience. However, as the internship progressed, I began to notice some red flags. The company assigned all interns the same three simple console-based projects. These projects required minimal effort, lacked creativity, and didn’t contribute to significant learning.
 
-📉 Later, I discovered that the company might not be genuine. It appeared to operate more like a scheme to attract students rather than a legitimate learning platform. This was disappointing, but it also became a valuable learning moment for me.
+  Later, I discovered that the company might not be genuine. It appeared to operate more like a scheme to attract students rather than a legitimate learning platform. This was disappointing, but it also became a valuable learning moment for me.
 
 💡 During a discussion with an industry professional, I learned about the different types of internships and their varying levels of value:<br>
 1️⃣ Console-based: These are basic projects, ideal for beginners but holding minimal value in the industry.<br>
